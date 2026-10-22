@@ -1,0 +1,23 @@
+{
+	id: "e8f31d1d-f83f-4a85-bae7-e2831f1d4d1f"
+	type: "party"
+	owner: "de6295f1-6c64-41c8-b5ec-43f3b078036e"
+	ranks: {
+		cb2d9d0f-45d0-42dd-9aab-d6c1f7bd257a: "ally"
+		de6295f1-6c64-41c8-b5ec-43f3b078036e: "owner"
+		eb6fa289-60a7-495b-aaec-f4dfaa5e19b9: "ally"
+	}
+	properties: {
+		"ftbteams:display_name": "test"
+		"ftbteams:description": ""
+		"ftbteams:color": "#E659FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1791147963098L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"JewnasVK\"}]}" }
+		{ from: "de6295f1-6c64-41c8-b5ec-43f3b078036e", date: 1791147982852L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.add_ally\",\"with\":[{\"color\":\"yellow\",\"text\":\"oskarnr1\"}]}" }
+		{ from: "de6295f1-6c64-41c8-b5ec-43f3b078036e", date: 1791147982852L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.add_ally\",\"with\":[{\"color\":\"yellow\",\"text\":\"xXx_Deez_xXx\"}]}" }
+	]
+	extra: { }
+}

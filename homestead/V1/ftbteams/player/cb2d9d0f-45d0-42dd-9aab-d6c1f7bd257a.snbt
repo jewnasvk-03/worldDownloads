@@ -1,0 +1,15 @@
+{
+	id: "cb2d9d0f-45d0-42dd-9aab-d6c1f7bd257a"
+	type: "player"
+	player_name: "oskarnr1"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "oskarnr1"
+		"ftbteams:description": ""
+		"ftbteams:color": "#BDFF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

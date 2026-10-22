@@ -1,0 +1,17 @@
+{
+	id: "1f752054-cb61-497c-bc33-97fd78a918f1"
+	type: "player"
+	player_name: "timvdp1911"
+	ranks: {
+		1f752054-cb61-497c-bc33-97fd78a918f1: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "timvdp1911"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59CFFF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

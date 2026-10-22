@@ -1,0 +1,15 @@
+{
+	id: "de6295f1-6c64-41c8-b5ec-43f3b078036e"
+	type: "player"
+	player_name: "JewnasVK"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "JewnasVK"
+		"ftbteams:description": ""
+		"ftbteams:color": "#E659FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

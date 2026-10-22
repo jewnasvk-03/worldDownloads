@@ -1,0 +1,23 @@
+{
+	id: "1c722f3a-ddaf-4b91-bcb5-35bd5af4eec4"
+	type: "party"
+	owner: "eb6fa289-60a7-495b-aaec-f4dfaa5e19b9"
+	ranks: {
+		cb2d9d0f-45d0-42dd-9aab-d6c1f7bd257a: "ally"
+		001bef68-90b4-4cf3-a110-7a6952561a87: "ally"
+		eb6fa289-60a7-495b-aaec-f4dfaa5e19b9: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Claim Trust"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FF7A"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1791147331154L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"xXx_Deez_xXx\"}]}" }
+		{ from: "eb6fa289-60a7-495b-aaec-f4dfaa5e19b9", date: 1791147331170L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"oskarnr1\"}]}" }
+		{ from: "eb6fa289-60a7-495b-aaec-f4dfaa5e19b9", date: 1791833810394L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.add_ally\",\"with\":[{\"color\":\"yellow\",\"text\":\"TheFireFeniks\"}]}" }
+	]
+	extra: { }
+}

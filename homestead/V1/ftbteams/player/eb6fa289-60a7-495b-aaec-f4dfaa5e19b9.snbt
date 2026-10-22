@@ -1,0 +1,15 @@
+{
+	id: "eb6fa289-60a7-495b-aaec-f4dfaa5e19b9"
+	type: "player"
+	player_name: "xXx_Deez_xXx"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "xXx_Deez_xXx"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FF7A"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

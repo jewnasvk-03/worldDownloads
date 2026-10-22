@@ -1,0 +1,17 @@
+{
+	id: "ae581511-4de0-468b-8872-65af22073eb2"
+	type: "player"
+	player_name: "samhita241"
+	ranks: {
+		ae581511-4de0-468b-8872-65af22073eb2: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "samhita241"
+		"ftbteams:description": ""
+		"ftbteams:color": "#E5FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

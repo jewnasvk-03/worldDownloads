@@ -1,0 +1,9 @@
+{
+	warps: {
+		snail: { dim: "minecraft:overworld", x: -890, y: 208, z: -853, time: 1791894965347L, xRot: 34.950665f, yRot: -24.66199f }
+		farm: { dim: "minecraft:overworld", x: -904, y: 167, z: -837, time: 1791201037456L, xRot: 87.14993f, yRot: 101.22592f }
+		end: { dim: "minecraft:the_end", x: -651, y: 60, z: -2199, time: 1791753141806L, xRot: 34.199623f, yRot: 50.06229f }
+	}
+	mute_timeouts: { }
+	kits: { }
+}

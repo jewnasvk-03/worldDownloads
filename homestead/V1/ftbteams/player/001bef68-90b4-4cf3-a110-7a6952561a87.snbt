@@ -1,0 +1,15 @@
+{
+	id: "001bef68-90b4-4cf3-a110-7a6952561a87"
+	type: "player"
+	player_name: "TheFireFeniks"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "TheFireFeniks"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FF5F"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,0 +1,23 @@
+{
+	id: "14d8ee5e-de4a-4731-afde-4c034cc8b937"
+	type: "party"
+	owner: "001bef68-90b4-4cf3-a110-7a6952561a87"
+	ranks: {
+		de6295f1-6c64-41c8-b5ec-43f3b078036e: "ally"
+		001bef68-90b4-4cf3-a110-7a6952561a87: "owner"
+		eb6fa289-60a7-495b-aaec-f4dfaa5e19b9: "ally"
+	}
+	properties: {
+		"ftbteams:display_name": "Penis Chicken"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FF5F"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1791833734805L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"TheFireFeniks\"}]}" }
+		{ from: "001bef68-90b4-4cf3-a110-7a6952561a87", date: 1791833746660L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.add_ally\",\"with\":[{\"color\":\"yellow\",\"text\":\"xXx_Deez_xXx\"}]}" }
+		{ from: "001bef68-90b4-4cf3-a110-7a6952561a87", date: 1791920628647L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.add_ally\",\"with\":[{\"color\":\"yellow\",\"text\":\"JewnasVK\"}]}" }
+	]
+	extra: { }
+}
